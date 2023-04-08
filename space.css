@@ -1,0 +1,11 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url('./BIUDCRIADOS.png');
+    background-position: right bottom;
+    background-repeat: repeat;
+}
+
+#board {
+    background-color: #ccc;
+}
